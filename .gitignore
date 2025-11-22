@@ -221,3 +221,20 @@ __marimo__/
 # Ignore cache/logs
 __pycache__/
 *.log
+# Ignore environment files
+.env
+*.env
+Hide.env
+
+# Python cache
+__pycache__/
+*.pyc
+
+# VS Code
+.vscode/
+
+# Streamlit files
+.streamlit/
+
+# Do NOT upload JSON arrays again
+*_array.json
