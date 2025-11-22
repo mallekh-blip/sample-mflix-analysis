@@ -27,8 +27,9 @@ except Exception as e:
     st.error(f" Connection failed: {e}")
     st.stop()
 
-st.title(" Sample MFlix – Dashboard")
-st.markdown("###  Fully Upgraded, CosmosDB-Compatible Dashboard")
+st.title("Azure CosmosDB Movie Analytics Dashboard")
+
+st.markdown("### Interactive dashboard connected to your cloud-hosted MongoDB/CosmosDB dataset.")
 
 # ---------------------------------------------------
 # 3️⃣ Loading Movies Collection
