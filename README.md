@@ -1,1 +1,2 @@
-# sample-mflix-analysis
+# Azure CosmosDB–Backed Movie Analytics
+Dashboard
